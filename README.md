@@ -2,7 +2,7 @@
 
 Server : Python
 
-Client : Web Browser (PyScript : Python in HTML)
+Client : Web Browser (PyScript : Python in HTML, Pico.css)
 
 Networking : HTTP/1.1
 
